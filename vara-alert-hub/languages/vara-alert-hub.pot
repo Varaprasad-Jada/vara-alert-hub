@@ -1,0 +1,635 @@
+# Copyright (C) 2026 Vara Prasad Jada
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vara Alert Hub 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/vara-alert-hub\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-23T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: manual extraction\n"
+"X-Domain: vara-alert-hub\n"
+
+#: style.css
+msgid "Vara Alert Hub"
+msgstr ""
+
+#: style.css
+msgid "Vara Prasad Jada"
+msgstr ""
+
+#: style.css
+msgid "https://varaprasad-jada.github.io/"
+msgstr ""
+
+#: style.css
+msgid "A clean updates and alerts theme for any site where posts change often: notices, announcements, results, releases and deals. Text-first cards, Updated dates, NEW badges, a live update board for 404 pages, optional featured images and ready-made block patterns for notices, dates and guides."
+msgstr ""
+
+#: 404.php:27 inc/template-functions.php:31 inc/template-functions.php:41 index.php:14 template-parts/content-none.php:54
+msgid "Latest updates"
+msgstr ""
+
+#: 404.php:29
+msgid "LIVE UPDATE BOARD"
+msgstr ""
+
+#: 404.php:45
+msgid "Now"
+msgstr ""
+
+#: 404.php:47
+msgid "This page: not found"
+msgstr ""
+
+#: 404.php:53
+msgid "> Looking up %s ... no match found"
+msgstr ""
+
+#: 404.php:67 template-parts/content-none.php:73
+msgid "Back to home"
+msgstr ""
+
+#: 404.php:68
+msgid "Go back"
+msgstr ""
+
+#: archive.php:17
+msgid "Archive"
+msgstr ""
+
+#: archive.php:24
+msgid "Category"
+msgstr ""
+
+#: archive.php:30
+msgid "Tag"
+msgstr ""
+
+#: archive.php:34 inc/comments.php:44
+msgid "Author"
+msgstr ""
+
+#: archive.php:64 template-parts/page-article.php:27
+msgid "Last updated %s"
+msgstr ""
+
+#: archive.php:82 inc/template-functions.php:390 inc/template-functions.php:466
+msgid "All"
+msgstr ""
+
+#: archive.php:96 search.php:40
+msgid "Recently updated"
+msgstr ""
+
+#: archive.php:97
+msgid "Newest published"
+msgstr ""
+
+#: archive.php:57
+msgid "%s update"
+msgid_plural "%s updates"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:20
+msgid "Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Older comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:42
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:42
+msgid "Powered by WordPress"
+msgstr ""
+
+#: functions.php:43 header.php:61
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:53 sidebar.php:16
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:55
+msgid "Appears next to posts and pages."
+msgstr ""
+
+#: functions.php:65
+msgid "Footer column %d"
+msgstr ""
+
+#: functions.php:67
+msgid "Replaces the default content of this footer column."
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:45 search.php:18
+msgid "Search"
+msgstr ""
+
+#: header.php:49
+msgid "Menu"
+msgstr ""
+
+#: inc/comments.php:51
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comments.php:94
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/comments.php:95
+msgid "Post comment"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "None (hide featured cards)"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Layout and display"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Update ticker"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "404 page"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Primary colour"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Show category tabs"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Show featured cards"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Category for featured cards"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Recently updated posts from this category appear as cards at the top of the homepage."
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Number of featured cards"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Featured heading"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Show the latest updates list"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Latest updates heading"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Sidebar on posts and pages"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Off"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Featured images in cards and lists"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Off (text only)"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Only when a post has an image"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Always, with a placeholder"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Posts always show their image on the post page when they have one."
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Show the author name on posts"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Days a post counts as new"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Text of the new badge"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Ticker label"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Ticker text"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Shown under the menu. Leave blank to hide the ticker."
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "First column heading"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "First column text"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "If blank, the site tagline is used. Adding a widget to a footer column replaces its default content."
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Second column heading"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Third column heading"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "If blank, the year and site name are used."
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Show the theme credit link"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Show the live update board"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Message"
+msgstr ""
+
+#: inc/meta-boxes.php:16
+msgid "Update details"
+msgstr ""
+
+#: inc/meta-boxes.php:17
+msgid "Page display"
+msgstr ""
+
+#: inc/meta-boxes.php:32
+msgid "Update note"
+msgstr ""
+
+#: inc/meta-boxes.php:34
+msgid "A short line shown at the top of the post, for example \"Dates extended\". Leave empty to hide it."
+msgstr ""
+
+#: inc/meta-boxes.php:37
+msgid "Last date"
+msgstr ""
+
+#: inc/meta-boxes.php:39
+msgid "Shows a \"Last date\" label on cards. Leave empty if the post has no deadline."
+msgstr ""
+
+#: inc/meta-boxes.php:56
+msgid "Hide the \"Last updated\" line"
+msgstr ""
+
+#: inc/patterns.php:21
+msgid "Vara Alert Hub"
+msgstr ""
+
+#: inc/patterns.php:30 inc/patterns.php:33
+msgid "Important notice"
+msgstr ""
+
+#: inc/patterns.php:33
+msgid "Write the notice or announcement here. Keep it short and clear."
+msgstr ""
+
+#: inc/patterns.php:38
+msgid "Important dates table"
+msgstr ""
+
+#: inc/patterns.php:41
+msgid "Important dates"
+msgstr ""
+
+#: inc/patterns.php:41
+msgid "Event"
+msgstr ""
+
+#: inc/patterns.php:41
+msgid "Date"
+msgstr ""
+
+#: inc/patterns.php:41
+msgid "Notification released"
+msgstr ""
+
+#: inc/patterns.php:41
+msgid "DD Month YYYY"
+msgstr ""
+
+#: inc/patterns.php:41
+msgid "Last date to apply"
+msgstr ""
+
+#: inc/patterns.php:41
+msgid "Result or next step"
+msgstr ""
+
+#: inc/patterns.php:46
+msgid "Info card with button"
+msgstr ""
+
+#: inc/patterns.php:49
+msgid "Card title"
+msgstr ""
+
+#: inc/patterns.php:49
+msgid "A short description of this update, result or notice."
+msgstr ""
+
+#: inc/patterns.php:49
+msgid "Open link"
+msgstr ""
+
+#: inc/patterns.php:54
+msgid "How to apply (steps)"
+msgstr ""
+
+#: inc/patterns.php:57
+msgid "How to apply"
+msgstr ""
+
+#: inc/patterns.php:57
+msgid "Visit the official website."
+msgstr ""
+
+#: inc/patterns.php:57
+msgid "Register with your details."
+msgstr ""
+
+#: inc/patterns.php:57
+msgid "Fill in the form and upload your documents."
+msgstr ""
+
+#: inc/patterns.php:57
+msgid "Pay the fee and download the receipt."
+msgstr ""
+
+#: inc/patterns.php:62
+msgid "Banner"
+msgstr ""
+
+#: inc/patterns.php:65
+msgid "Site name"
+msgstr ""
+
+#: inc/patterns.php:65
+msgid "All your updates in one place"
+msgstr ""
+
+#: inc/patterns.php:65
+msgid "One short line that tells visitors what they will find here."
+msgstr ""
+
+#: inc/patterns.php:65
+msgid "See latest updates"
+msgstr ""
+
+#: inc/patterns.php:73
+msgid "Three link cards"
+msgstr ""
+
+#: inc/patterns.php:76
+msgid "First topic"
+msgstr ""
+
+#: inc/patterns.php:76
+msgid "A short line about this topic."
+msgstr ""
+
+#: inc/patterns.php:76
+msgid "Second topic"
+msgstr ""
+
+#: inc/patterns.php:76
+msgid "Third topic"
+msgstr ""
+
+#: inc/template-functions.php:30
+msgid "Featured"
+msgstr ""
+
+#: inc/template-functions.php:35
+msgid "NEW"
+msgstr ""
+
+#: inc/template-functions.php:37
+msgid "Updates"
+msgstr ""
+
+#: inc/template-functions.php:38
+msgid "About"
+msgstr ""
+
+#: inc/template-functions.php:40
+msgid "Quick links"
+msgstr ""
+
+#: inc/template-functions.php:44
+msgid "This update isn't on the board"
+msgstr ""
+
+#: inc/template-functions.php:45
+msgid "The page may have moved, expired, or the link has a typo. Search for it, or head back to what's new."
+msgstr ""
+
+#: inc/template-functions.php:302
+msgid "Last date %s"
+msgstr ""
+
+#: inc/template-functions.php:518
+msgid "Sort by"
+msgstr ""
+
+#: inc/template-functions.php:537
+msgid "List"
+msgstr ""
+
+#: inc/template-functions.php:538
+msgid "Grid"
+msgstr ""
+
+#: inc/template-functions.php:541
+msgid "View"
+msgstr ""
+
+#: inc/template-functions.php:582
+msgid "Pages"
+msgstr ""
+
+#: inc/template-functions.php:585
+msgid "Newer"
+msgstr ""
+
+#: inc/template-functions.php:604
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: inc/template-functions.php:607
+msgid "Older"
+msgstr ""
+
+#: inc/template-functions.php:689
+msgid "&copy; %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: inc/template-functions.php:706
+msgid "Theme: %s"
+msgstr ""
+
+#: inc/template-functions.php:714
+msgid "Home"
+msgstr ""
+
+#: search.php:22
+msgid "Search the site"
+msgstr ""
+
+#: search.php:39
+msgid "Best match"
+msgstr ""
+
+#: search.php:25
+msgid "%1$s result for \"%2$s\""
+msgid_plural "%1$s results for \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: single.php:34
+msgid "Published %s"
+msgstr ""
+
+#: single.php:42 template-parts/card.php:46 template-parts/row.php:32
+msgid "Updated %s"
+msgstr ""
+
+#: single.php:60
+msgid "Updated %s:"
+msgstr ""
+
+#: single.php:75 template-parts/page-article.php:38
+msgid "Pages:"
+msgstr ""
+
+#: single.php:86
+msgid "Posted in %s"
+msgstr ""
+
+#: single.php:91
+msgid "Tags: %s"
+msgstr ""
+
+#: single.php:99
+msgid "Previous post:"
+msgstr ""
+
+#: single.php:100
+msgid "Next post:"
+msgstr ""
+
+#: single.php:116
+msgid "Related updates"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "> Searching for \"%s\" ..."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "> 0 updates found"
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid "Check the spelling, try fewer words, or browse a category."
+msgstr ""
+
+#: template-parts/content-none.php:68
+msgid "No updates yet"
+msgstr ""
+
+#: template-parts/content-none.php:69
+msgid "Publish your first post and it will appear here."
+msgstr ""
+
+#: template-parts/content-none.php:71
+msgid "Nothing here yet"
+msgstr ""
+
+#: template-parts/content-none.php:72
+msgid "No updates match this page. Try another category or go back to the homepage."
+msgstr ""

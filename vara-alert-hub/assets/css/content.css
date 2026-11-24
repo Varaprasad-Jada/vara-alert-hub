@@ -1,0 +1,30 @@
+/*
+ * Vara Alert Hub: content styles.
+ * Loaded on the site and in the block editor so patterns look the same in both.
+ */
+.ah-notice { background: #fff8e1; border-left: 4px solid #ffc107; padding: 12px 16px; margin: 0 0 18px; }
+.ah-notice p { margin: 0 0 6px; }
+.ah-notice p:last-child { margin-bottom: 0; }
+.ah-notice .ah-notice-label { font-size: 12px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: #7a5b00; }
+
+.ah-info-card, .ah-steps { background: #fff; border: 1px solid #e1e6ec; border-radius: 12px; padding: 16px 18px; margin: 0 0 18px; }
+.ah-info-card h3, .ah-steps h3 { margin-top: 0; color: var(--ah-primary-dark, #0a58ca); }
+.ah-steps ol { margin: 0; padding-left: 22px; }
+.ah-steps li { margin-bottom: 6px; line-height: 1.6; }
+
+.ah-banner { background: var(--ah-primary-dark, #0a58ca); color: #fff; border-radius: 12px; padding: 28px 24px; margin: 0 0 18px; }
+.ah-banner h2, .ah-banner p { color: #fff; }
+.ah-banner h2 { margin: 0 0 8px; font-size: 28px; }
+.ah-banner p { max-width: 520px; }
+.ah-banner .ah-banner-label { font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; opacity: .85; margin-bottom: 6px; }
+.ah-banner .wp-block-button__link { background: #fff; color: var(--ah-primary-dark, #0a58ca); }
+
+.ah-linkcard { background: #fff; border: 1px solid #e1e6ec; border-top: 3px solid var(--ah-primary, #0d6efd); border-radius: 0 0 12px 12px; padding: 14px 16px; height: 100%; }
+.ah-linkcard h3 { margin: 0 0 4px; font-size: 16px; }
+.ah-linkcard p { margin: 0; font-size: 14px; color: #5b6776; }
+
+.wp-block-table table { border-collapse: collapse; width: 100%; }
+.wp-block-table th, .wp-block-table td { border: 1px solid #e1e6ec; padding: 9px 12px; text-align: left; }
+.wp-block-table th { background: #eef3fb; }
+.wp-block-quote { border-left: 4px solid var(--ah-primary, #0d6efd); margin: 18px 0; padding: 4px 18px; color: #5b6776; }
+.wp-block-button__link { background: var(--ah-primary, #0d6efd); color: #fff; border-radius: 8px; padding: 10px 20px; text-decoration: none; font-weight: 600; }
